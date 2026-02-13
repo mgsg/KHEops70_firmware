@@ -12,7 +12,7 @@ Check Hardware Repository [here](https://github.com/mgsg/KHEops70).
 
 **KHEops70** is a **K**eyboard that uses **HE** (Hall Effect/analog/magnetic) sensors, has an **O**rthogonal layout, is **P**rogrammable (using QMK) and **S**tandard-sized and has **70** keys.
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="KHEops70" alt="KHEops70" src="../KHEops70/images/KHEops70.png" width="400"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="KHEops70" alt="KHEops70" src="../KHEops70/blob/main/images/KHEops70.png" width="400"></p>
 
 
 * It is a **MoonBoard** variant. [Check the MoonBoard project here.](https://github.com/certainly1182/MoonBoard) [Check the QMK firmware for the MoonBoard here.](https://github.com/RephlexZero/qmk_firmware/blob/adc_testing/keyboards/rephlex/moonboard/readme.md).
