@@ -1,25 +1,12 @@
-# KHEops70 QMK firmware
-QMK Firmware for the KHEops70 keyboard
-
-**K**eyboard | **H**all **E**ffect | **O**rthoLinear | **P**rogrammable | **S**tandard-sized
-
-Check Hardware Repository [here](https://github.com/mgsg/KHEops70).
-
-    WARNING: DIY project. Use at your own risk!
-
+# mgsg/KHEops70
 
 ## Project Description
 
 **KHEops70** is a **K**eyboard that uses **HE** (Hall Effect/analog/magnetic) sensors, has an **O**rthogonal layout, is **P**rogrammable (using QMK) and **S**tandard-sized and has **70** keys.
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="KHEops70" alt="KHEops70" src="../KHEops70/images/KHEops70.png" width="400"></p>
-
-
 * It is a **MoonBoard** variant. [Check the MoonBoard project here.](https://github.com/certainly1182/MoonBoard) [Check the QMK firmware for the MoonBoard here.](https://github.com/RephlexZero/qmk_firmware/blob/adc_testing/keyboards/rephlex/moonboard/readme.md).
 * Goal: Hybrid keyboard for office/gaming typing AND music experimenting!
-
-
-## Features:
+* Features:
   - Hall Effect (HE) / Analog / Magnetic sensors with configurable actuation point for typing and MIDI velocity sensing.
   - Per-key RGB Leds.
   - USB connection uses [Unified Daughterboard (UD)](https://unified-daughterboard.github.io/).
@@ -36,8 +23,6 @@ Check Hardware Repository [here](https://github.com/mgsg/KHEops70).
 * Hardware Availability: *NULL*
 
 ## Build instructions
-
-Clone the QMK repository and follow the configuration instructions for your platform. Copy the `mgsg/kheops70` folder from this repository inside your QMK project `keyboards` folder.
 
 Make example for this keyboard (after setting up your build environment):
 
