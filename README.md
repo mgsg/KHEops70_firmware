@@ -19,6 +19,10 @@ Check Hardware Repository [here](https://github.com/mgsg/KHEops70).
 * Goal: Hybrid keyboard for office/gaming typing AND music experimenting!
 
 
+* Keyboard Maintainer: [mgsg](https://github.com/mgsg)
+* Hardware Supported: *STM32F303*
+* Hardware Availability: *NULL*
+
 ## Features:
   - Hall Effect (HE) / Analog / Magnetic sensors with configurable actuation point for typing and MIDI velocity sensing.
   - Per-key RGB Leds.
@@ -30,10 +34,6 @@ Check Hardware Repository [here](https://github.com/mgsg/KHEops70).
   - Can be expanded to add 2 finger drum pads using piezo sensors.
   - Rotary encoder.
   - OLED display
-
-* Keyboard Maintainer: [mgsg](https://github.com/mgsg)
-* Hardware Supported: *STM32F303*
-* Hardware Availability: *NULL*
 
 ## Build instructions
 
